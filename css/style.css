@@ -809,10 +809,23 @@ p {
     .loader {
 	left: 71%;
 }
+.port-sec .port {
+	width: 95%;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+	
 }
 
 @media (max-width:380px){
     .loader {
 	display: none;
 }
+	.port-sec .port {
+	width: 95%;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}	
+	
+	
 }
